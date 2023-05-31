@@ -1,0 +1,14 @@
+.subnav {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    
+    
+}
+.icons {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: 50px;
+    padding: 25px;
+}
