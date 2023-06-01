@@ -42,7 +42,6 @@ function Search({ onCloseSearch }) {
 
         {showComponent && (
           <div>
-           
             <Distance />
           </div>
         )}

@@ -1,0 +1,8 @@
+.info {
+    background: white;
+    height: 100vh;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    z-index: 1;
+    } 

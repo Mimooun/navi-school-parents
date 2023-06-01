@@ -1,0 +1,52 @@
+.liste {
+    margin-top: 30px;
+}
+.liste .name {
+    margin-top: 25px;
+    font-size: 18px;
+}
+.liste .adresse {
+    margin-top: 14px;
+    font-size: 18px;
+}
+
+.liste .domaine  {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 20px;
+}
+.liste .domaine .img {
+margin-top: 30px;
+width: 100%;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.liste .domaine .wrapper .img_schol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    width: 100%;
+}
+
+.liste .domaine .text {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+.liste .button {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.liste Button {
+    background-color: #0A0A0A;
+}
+.liste Button:hover {
+    background-color: #FFC901;
+}

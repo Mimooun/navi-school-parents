@@ -1,0 +1,54 @@
+.top{ 
+    overflow: hidden;
+}
+.top .top_seconde {
+    margin-top: 15px;
+    padding-left:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 92%;
+    position: absolute;
+    top: 0px;
+    z-index: 1
+}
+
+.top .top_seconde input {
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    width: 90%;
+    height: 25px;
+}
+
+.input_container {
+    position: relative;
+    width: 100%;
+  }
+  
+   .top_seconde .input_container .input_text {
+    padding-left: 35px;  
+  }
+  
+  .search_icon {
+    position: absolute;
+    top: 55%;
+    transform: translateY(-50%);
+    left: 10px;
+
+  }
+  .top_seconde .input_container_ver {
+    position: relative;
+    width: 100%;
+}
+.top_seconde .input_container_ver input {
+    background: rgb(255,201,1);
+    background: linear-gradient(90deg, rgba(255,201,1,1) 0%, rgba(242,169,2,1) 35%);
+    
+}
+.top_seconde .input_container_ver .input_text {
+    padding-left: 35px; 
+    color: rebeccapurple;
+  }
