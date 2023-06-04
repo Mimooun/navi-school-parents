@@ -9,7 +9,7 @@ import Button from '@mui/material/Button';
 import {BsFillTelephoneFill , BsShareFill} from 'react-icons/bs'
 import {GrLocation} from 'react-icons/gr'
 
-import Description from '../../pages/Description/Description'
+import Description from '../Description/Description'
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
