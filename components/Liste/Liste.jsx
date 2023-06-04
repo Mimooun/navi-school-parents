@@ -32,7 +32,7 @@ function liste() {
         </div>
         <div className={styles.wrapper}>
           <div> <Image className={styles.img} src={img2} alt="logo" /></div>
-          <div className={styles.text}>Primaire</div>
+          <div className={styles.text}>Primair</div>
         </div>
         <div className={styles.wrapper}>
           <div> <Image className={styles.img} src={img4} alt="logo" /></div>
