@@ -44,9 +44,9 @@ align-items: center;
     align-items: center;
     
 }
-.liste Button {
+.liste .Button {
     background-color: #0A0A0A;
 }
-.liste Button:hover {
+.liste .Button:hover {
     background-color: #FFC901;
 }

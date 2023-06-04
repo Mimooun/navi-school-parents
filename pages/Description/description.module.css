@@ -1,0 +1,90 @@
+.descript {
+    margin: 0px;
+    padding: 0px;
+}
+.descript .cont  {
+    display: flex;
+    gap: 30px;
+
+}
+.descript .ico {
+    font-size: 20px;
+}
+.ligne {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background: rgb(255,201,1);
+    background: linear-gradient(90deg, rgba(255,201,1,1) 0%, rgba(242,169,2,1) 35%);
+    height: 1px;
+    width: 100%;
+}
+/**deuxieme partie **/
+.descript .wrapper {
+    margin-top: 15px;
+}
+.descript .wr {
+    width: 100%;
+    background: rgb(255,201,1);
+    background: linear-gradient(90deg, rgba(255,201,1,1) 0%, rgba(242,169,2,1) 35%);
+    padding: 10px;
+}
+.descript .wrapper .text {
+    margin-top: 10px;
+}
+
+
+.descript .domaine  {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 20px;
+}
+.descript .domaine .img {
+margin-top: 20px;
+width: 100%;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.descript .domaine .wrapper .img_schol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    width: 100%;
+}
+
+.descript .domaine .text {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12px;
+}
+
+/* service css*/ 
+.descript .service {
+   
+    margin-top: 15px;
+    border-left: 3px solid rgb(255,201,1);
+}
+ .descript .service .serv {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+ }
+
+ .descript .pedagogie {
+    margin: 0;
+    margin-top: 15px;
+    border-left: 3px solid rgb(255,201,1);
+}
+ .descript .pedagogie .peda {
+    font-size: 16px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-left: 15px;
+ }
